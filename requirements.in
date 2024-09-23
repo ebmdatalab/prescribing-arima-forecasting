@@ -18,3 +18,5 @@ ipywidgets
 dash
 
 # Add extra per-notebook packages here
+statsforecast
+setuptools
